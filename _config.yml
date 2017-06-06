@@ -2,7 +2,7 @@ title: Czjoe49.GitHub.io
 description: Liuyizhou's Games
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
