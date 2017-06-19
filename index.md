@@ -7,5 +7,3 @@ Indie Game：Sky Master
 
 安卓下载(Android Downloads):
 [(TapTap)游戏下载](http://l.taptap.com/123/HSpzj1dt)
-
-注:安卓用户必须先优先安装Taptap平台,然后通过此平台下载此游戏
