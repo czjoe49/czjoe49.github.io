@@ -5,6 +5,6 @@ Indie Game：Sky Master
 
 [前往App Store下载(iOS Downloads)](http://itunes.apple.com/cn/app/id1244048058)
 
-[前往GooglePlay Store下载(iOS Downloads)](https://play.google.com/store/apps/details?id=com.LiuYizhou.SkyMaster&rdid=com.LiuYizhou.SkyMaster)
+[前往GooglePlay Store下载](https://play.google.com/store/apps/details?id=com.LiuYizhou.SkyMaster&rdid=com.LiuYizhou.SkyMaster)
 
-[(TapTap)游戏下载](http://l.taptap.com/123/HSpzj1dt)
+[(TapTap)游戏下载(Android Downloads)](http://l.taptap.com/123/HSpzj1dt)
