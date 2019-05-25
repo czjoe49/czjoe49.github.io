@@ -28,9 +28,9 @@ Indie Game：Sky Master
 
 <font face="黑体">Contact us</font>
 
-<font color=#0099ff size=13 face="STCAIYUN">Email: 123011642@qq.com</font>
+<font color=#0099ff size=2 face="STCAIYUN">Email: 123011642@qq.com</font>
 
-<font color=gray size=15>QQ：123011642</font>
+<font color=gray size=2>QQ：123011642</font>
 
 
 [隐私政策 PRIVACY POLICY](https://czjoe49.github.io/PRIVACY%20POLICY)
