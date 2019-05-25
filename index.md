@@ -25,10 +25,12 @@ Indie Game：Sky Master
 
 [(TapTap)游戏下载(Android Downloads)](http://l.taptap.com/123/HSpzj1dt)
 
-Contact us
 
-Email: 123011642@qq.com
+<font face="黑体">Contact us</font>
 
-QQ：123011642
+<font color=#0099ff size=13 face="STCAIYUN">Email: 123011642@qq.com</font>
+
+<font color=gray size=15>QQ：123011642</font>
+
 
 [隐私政策 PRIVACY POLICY](https://czjoe49.github.io/PRIVACY%20POLICY)
