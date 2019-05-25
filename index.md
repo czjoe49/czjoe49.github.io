@@ -11,7 +11,7 @@ Indie Game：Sky Master
     有几十种不同类型机型可以选择
     游戏中还有十多种不同武器可以更换
 
-[![图片链接](https://github.com/czjoe49/czjoe49.github.io/blob/master/images/banner1024x500.jpg)](http://www.baidu.com/)
+[![图片链接](https://github.com/czjoe49/czjoe49.github.io/blob/master/images/banner1024x500.jpg)](http://www.liuyizhou.cc/)
 
 
    游戏截图<br />
