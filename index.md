@@ -12,7 +12,11 @@ Indie Game：Sky Master
     游戏中还有十多种不同武器可以更换
 
 [![image]](http://www.liuyizhou.cc/)  
-[image]:https://img.tapimg.com/market/images/ae190967c6cf5d749fab1c2844178949.jpg?imageView2/0/w/1080/q/40/format/jpg/interlace/1/ignore-error/1
+[image]: https://img.tapimg.com/market/images/ae190967c6cf5d749fab1c2844178949.jpg?imageView2/0/w/1080/q/40/format/jpg/interlace/1/ignore-error/1
+
+[![image]](http://www.github.com/)  
+[image]: http://github.com/github.png "github"  
+
 
    游戏截图<br />
 
