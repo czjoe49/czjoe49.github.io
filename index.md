@@ -17,4 +17,4 @@ Email: 123011642@qq.com
 
 QQ：123011642
 
-[隐私政策](http://czjoe49.github.io/PRIVACY POLICY)
+[隐私政策 PRIVACY POLICY](https://czjoe49.github.io/PRIVACY%20POLICY)
