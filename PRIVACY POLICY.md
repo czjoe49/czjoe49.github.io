@@ -1,7 +1,7 @@
-CHOUGAME STUDIO
-
+CHOUGAME STUDIO‘S
+-----------------
 PRIVACY POLICY
-
+================
 Your privacy is very important to us. Therefore, we have developed this policy so that you can understand how we collect, use, communicate, disclose and use personal information.
 
 We may change this policy from time to time, so please check this page occasionally to make sure you are happy with any changes. By using our website and video games, you agree to abide by this policy. For any questions regarding this policy and our privacy practices, please send an email to czliuyizhou@gmail.com
