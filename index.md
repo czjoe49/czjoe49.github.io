@@ -31,5 +31,8 @@ Indie Game：Sky Master
         Email: 123011642@qq.com
 
         QQ：123011642
-[隐私政策 简体中文](https://czjoe49.github.io/PrivacyA%20Policy%20Simplified%20Chinese)
+        
+        
+        
+[隐私政策 简体中文](https://github.com/czjoe49/czjoe49.github.io/blob/ae68804b19cf0f15ffe82ed6ab9f169f85ddde76/PrivacyA%20Policy%20Simplified%20Chinese)
 [隐私政策 PRIVACY POLICY](https://czjoe49.github.io/PRIVACY%20POLICY)
