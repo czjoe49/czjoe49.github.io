@@ -34,6 +34,6 @@ Indie Game：Sky Master
         
         
         
-[隐私政策 简体中文](https://czjoe49.github.io/PrivacyA%20Policy%20Simplified%20Chinese)
+[隐私政策 简体中文](https://czjoe49.github.io/Privacy%20Policy%20Simplified%20Chinese)
 
 [隐私政策 PRIVACY POLICY](https://czjoe49.github.io/PRIVACY%20POLICY)
