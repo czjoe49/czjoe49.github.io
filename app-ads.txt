@@ -1,5 +1,5 @@
 #admob
-google.com, pub-5218483457837804, DIRECT, f08c47fec0942fa0
+google.com, pub-3768828109738195, DIRECT, f08c47fec0942fa0
 
 #Facebook
 facebook.com, 496538125566838, DIRECT, c3e20eee3f780d68
